@@ -1,0 +1,1 @@
+Remote repositories are online replicas of local repositories that are hosted on a server. In contrast to local repositories which are located on users' computers, remote repositories are useful for collaborative projects. More specifically, when collaborating on a remote repository, the other developers need to pull and push data. 
