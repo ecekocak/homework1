@@ -1,1 +1,5 @@
-Remote repositories are online replicas of local repositories that are hosted on a server. In contrast to local repositories which are located on users' computers, remote repositories are useful for collaborative projects. More specifically, when collaborating on a remote repository, the other developers need to pull and push data. 
+Git merge produces a new merge commit which essentially combines the modifications from both branches and gives access to the source of each commit. Merge conflicts, however, can occur while using git merge. Git merge would be the better option as it allows for working with larger groups and displaying target and source branches.
+
+Git rebase is to make changes from one branch to another. More specifically, the top of the target branch is used to generate a new set of commits. It can be used either individually or in small groups. Overall, git rebase should be used if one wishes to update the beginning of their branch to a subsequent commit that took place after they branch out.
+
+Remote repositories are online replicas of local repositories that are hosted on a server. In contrast to local repositories which are located on users' computers, remote repositories are useful for collaborative projects. More specifically, when collaborating on a remote repository, the other developers need to pull and push data.
